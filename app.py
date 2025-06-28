@@ -6,9 +6,9 @@ from rag_pipeline import (
     ask_gemini
 )
 
-st.set_page_config(page_title="🧠 RAG Chatbot with Vertex AI")
+st.set_page_config(page_title="🧠 SmartDoc QA Bot with Vertex AI")
 
-st.title("📄 RAG Chatbot using Vertex AI + LangChain")
+st.title("📄 SmartDoc QA Bot with Vertex AI")
 st.markdown("Ask questions based on the PDF.")
 
 pdf_path = "/Users/admin/Downloads/Mastering RAG.pdf"

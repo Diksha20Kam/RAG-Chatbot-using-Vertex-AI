@@ -1,4 +1,5 @@
-# 🧠 RAG Chatbot using Vertex AI + LangChain
+# 🧠 SmartDoc QA Bot with Vertex AI
+## RAG Chatbot using Vertex AI + LangChain
 
 This project is a **Retrieval-Augmented Generation (RAG) chatbot** that allows users to ask questions about a long PDF document (100–200 pages). The chatbot uses **Vertex AI (Google)** for embedding and generation, **LangChain** for chunking and retrieval, and **Streamlit** for the user interface.
 
